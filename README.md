@@ -1,4 +1,4 @@
 # MyDemo
 This is my first git repository.
 <br>
-Author - Shahid Eqbal
+Author - Shahid (this is myDemo)
